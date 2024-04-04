@@ -1,0 +1,237 @@
+D:\Criterion 6\bin\Debug\Criterion 6.exe.config
+D:\Criterion 6\bin\Debug\Criterion 6.exe
+D:\Criterion 6\bin\Debug\Criterion 6.pdb
+D:\Criterion 6\bin\Debug\Criterion 6.xml
+D:\Criterion 6\obj\Debug\Criterion 6.vbprojAssemblyReference.cache
+D:\Criterion 6\obj\Debug\Criterion_6.frmAppLogin.resources
+D:\Criterion 6\obj\Debug\Criterion_6.frmMainMenu.resources
+D:\Criterion 6\obj\Debug\Criterion_6.Resources.resources
+D:\Criterion 6\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+D:\Criterion 6\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+D:\Criterion 6\obj\Debug\Criterion 6.exe
+D:\Criterion 6\obj\Debug\Criterion 6.xml
+D:\Criterion 6\obj\Debug\Criterion 6.pdb
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\bin\Debug\Criterion 6.exe.config
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\bin\Debug\Criterion 6.exe
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\bin\Debug\Criterion 6.pdb
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\bin\Debug\Criterion 6.xml
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\obj\Debug\Criterion 6.vbprojAssemblyReference.cache
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\obj\Debug\Criterion_6.frmAppLogin.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\obj\Debug\Criterion_6.frmMainMenu.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\obj\Debug\Criterion_6.Resources.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\obj\Debug\Criterion 6.exe
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\obj\Debug\Criterion 6.xml
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\obj\Debug\Criterion 6.pdb
+E:\Criterion 6\bin\Debug\Criterion 6.exe.config
+E:\Criterion 6\bin\Debug\Criterion 6.exe
+E:\Criterion 6\bin\Debug\Criterion 6.pdb
+E:\Criterion 6\bin\Debug\Criterion 6.xml
+E:\Criterion 6\obj\Debug\Criterion 6.vbproj.AssemblyReference.cache
+E:\Criterion 6\obj\Debug\Criterion_6.frmAppLogin.resources
+E:\Criterion 6\obj\Debug\Criterion_6.frmMainMenu.resources
+E:\Criterion 6\obj\Debug\Criterion_6.Resources.resources
+E:\Criterion 6\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+E:\Criterion 6\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+E:\Criterion 6\obj\Debug\Criterion 6.exe
+E:\Criterion 6\obj\Debug\Criterion 6.xml
+E:\Criterion 6\obj\Debug\Criterion 6.pdb
+E:\Criterion 6\obj\Debug\Criterion_6.frmEmpSearch.resources
+E:\Criterion 6\obj\Debug\Criterion_6.frmCompanyLists.resources
+E:\Criterion 6\obj\Debug\Criterion_6.frmCreateATeam.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\obj\Debug\Criterion_6.frmCompanyLists.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\obj\Debug\Criterion_6.frmCreateATeam.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6\obj\Debug\Criterion_6.frmEmpSearch.resources
+E:\Criterion 6 - Copy\bin\Debug\Criterion 6.exe.config
+E:\Criterion 6 - Copy\bin\Debug\Criterion 6.exe
+E:\Criterion 6 - Copy\bin\Debug\Criterion 6.pdb
+E:\Criterion 6 - Copy\bin\Debug\Criterion 6.xml
+E:\Criterion 6 - Copy\obj\Debug\Criterion 6.vbproj.AssemblyReference.cache
+E:\Criterion 6 - Copy\obj\Debug\Criterion_6.frmAppLogin.resources
+E:\Criterion 6 - Copy\obj\Debug\Criterion_6.frmCompanyLists.resources
+E:\Criterion 6 - Copy\obj\Debug\Criterion_6.frmCreateATeam.resources
+E:\Criterion 6 - Copy\obj\Debug\Criterion_6.frmEmpSearch.resources
+E:\Criterion 6 - Copy\obj\Debug\Criterion_6.frmMainMenu.resources
+E:\Criterion 6 - Copy\obj\Debug\Criterion_6.Resources.resources
+E:\Criterion 6 - Copy\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+E:\Criterion 6 - Copy\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+E:\Criterion 6 - Copy\obj\Debug\Criterion 6.exe
+E:\Criterion 6 - Copy\obj\Debug\Criterion 6.xml
+E:\Criterion 6 - Copy\obj\Debug\Criterion 6.pdb
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\bin\Debug\Criterion 6.exe.config
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\bin\Debug\Criterion 6.exe
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\bin\Debug\Criterion 6.pdb
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\bin\Debug\Criterion 6.xml
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\obj\Debug\Criterion 6.vbproj.AssemblyReference.cache
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\obj\Debug\Criterion_6.frmAppLogin.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\obj\Debug\Criterion_6.frmCompanyLists.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\obj\Debug\Criterion_6.frmCreateATeam.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\obj\Debug\Criterion_6.frmEmpSearch.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\obj\Debug\Criterion_6.frmMainMenu.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\obj\Debug\Criterion_6.Resources.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\obj\Debug\Criterion 6.exe
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\obj\Debug\Criterion 6.xml
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\Criterion 6 - Copy\obj\Debug\Criterion 6.pdb
+E:\15edits\Criterion 6 - Copy\bin\Debug\Criterion 6.exe.config
+E:\15edits\Criterion 6 - Copy\bin\Debug\Criterion 6.exe
+E:\15edits\Criterion 6 - Copy\bin\Debug\Criterion 6.pdb
+E:\15edits\Criterion 6 - Copy\bin\Debug\Criterion 6.xml
+E:\15edits\Criterion 6 - Copy\obj\Debug\Criterion 6.vbproj.AssemblyReference.cache
+E:\15edits\Criterion 6 - Copy\obj\Debug\Criterion_6.frmAppLogin.resources
+E:\15edits\Criterion 6 - Copy\obj\Debug\Criterion_6.frmCompanyLists.resources
+E:\15edits\Criterion 6 - Copy\obj\Debug\Criterion_6.frmCreateATeam.resources
+E:\15edits\Criterion 6 - Copy\obj\Debug\Criterion_6.frmEmpSearch.resources
+E:\15edits\Criterion 6 - Copy\obj\Debug\Criterion_6.frmMainMenu.resources
+E:\15edits\Criterion 6 - Copy\obj\Debug\Criterion_6.Resources.resources
+E:\15edits\Criterion 6 - Copy\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+E:\15edits\Criterion 6 - Copy\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+E:\15edits\Criterion 6 - Copy\obj\Debug\Criterion 6.exe
+E:\15edits\Criterion 6 - Copy\obj\Debug\Criterion 6.xml
+E:\15edits\Criterion 6 - Copy\obj\Debug\Criterion 6.pdb
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\bin\Debug\Criterion 6.exe.config
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\bin\Debug\Criterion 6.exe
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\bin\Debug\Criterion 6.pdb
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\bin\Debug\Criterion 6.xml
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\obj\Debug\Criterion 6.vbproj.AssemblyReference.cache
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\obj\Debug\Criterion_6.frmAppLogin.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\obj\Debug\Criterion_6.frmCompanyLists.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\obj\Debug\Criterion_6.frmCreateATeam.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\obj\Debug\Criterion_6.frmEmpSearch.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\obj\Debug\Criterion_6.frmMainMenu.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\obj\Debug\Criterion_6.Resources.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\obj\Debug\Criterion 6.exe
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\obj\Debug\Criterion 6.xml
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\Criterion 6 - Copy\obj\Debug\Criterion 6.pdb
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\bin\Debug\Criterion 6.exe.config
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\bin\Debug\Criterion 6.exe
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\bin\Debug\Criterion 6.pdb
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\bin\Debug\Criterion 6.xml
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.AssemblyReference.cache
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\obj\Debug\Criterion_6.frmAppLogin.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\obj\Debug\Criterion_6.frmCompanyLists.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\obj\Debug\Criterion_6.frmCreateATeam.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\obj\Debug\Criterion_6.frmEmpSearch.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\obj\Debug\Criterion_6.frmMainMenu.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\obj\Debug\Criterion_6.Resources.resources
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\obj\Debug\Criterion 6.exe
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\obj\Debug\Criterion 6.xml
+D:\Contents\## School\Software Dev\Criterion 6 Master COpy\717\criterion 7 sandbox\obj\Debug\Criterion 6.pdb
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\bin\Debug\Criterion 6.exe.config
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\bin\Debug\Criterion 6.exe
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\bin\Debug\Criterion 6.pdb
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\bin\Debug\Criterion 6.xml
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\obj\Debug\Criterion 6.vbprojAssemblyReference.cache
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\obj\Debug\Criterion_6.frmAppLogin.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\obj\Debug\Criterion_6.frmCompanyLists.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\obj\Debug\Criterion_6.frmCreateATeam.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\obj\Debug\Criterion_6.frmEmpSearch.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\obj\Debug\Criterion_6.frmMainMenu.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\obj\Debug\Criterion_6.Resources.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\obj\Debug\Criterion 6.exe
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\obj\Debug\Criterion 6.xml
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\criterion 7 sandbox\obj\Debug\Criterion 6.pdb
+D:\Contents\## School\Software Dev\criterion 7 sandbox\bin\Debug\Criterion 6.exe.config
+D:\Contents\## School\Software Dev\criterion 7 sandbox\bin\Debug\Criterion 6.exe
+D:\Contents\## School\Software Dev\criterion 7 sandbox\bin\Debug\Criterion 6.pdb
+D:\Contents\## School\Software Dev\criterion 7 sandbox\bin\Debug\Criterion 6.xml
+D:\Contents\## School\Software Dev\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.AssemblyReference.cache
+D:\Contents\## School\Software Dev\criterion 7 sandbox\obj\Debug\Criterion_6.frmAppLogin.resources
+D:\Contents\## School\Software Dev\criterion 7 sandbox\obj\Debug\Criterion_6.frmCompanyLists.resources
+D:\Contents\## School\Software Dev\criterion 7 sandbox\obj\Debug\Criterion_6.frmCreateATeam.resources
+D:\Contents\## School\Software Dev\criterion 7 sandbox\obj\Debug\Criterion_6.frmEmpSearch.resources
+D:\Contents\## School\Software Dev\criterion 7 sandbox\obj\Debug\Criterion_6.frmMainMenu.resources
+D:\Contents\## School\Software Dev\criterion 7 sandbox\obj\Debug\Criterion_6.Resources.resources
+D:\Contents\## School\Software Dev\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+D:\Contents\## School\Software Dev\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+D:\Contents\## School\Software Dev\criterion 7 sandbox\obj\Debug\Criterion 6.exe
+D:\Contents\## School\Software Dev\criterion 7 sandbox\obj\Debug\Criterion 6.xml
+D:\Contents\## School\Software Dev\criterion 7 sandbox\obj\Debug\Criterion 6.pdb
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\bin\Debug\Criterion 6.exe.config
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\bin\Debug\Criterion 6.exe
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\bin\Debug\Criterion 6.pdb
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\bin\Debug\Criterion 6.xml
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.AssemblyReference.cache
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\obj\Debug\Criterion_6.frmAppLogin.resources
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\obj\Debug\Criterion_6.frmCompanyLists.resources
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\obj\Debug\Criterion_6.frmCreateATeam.resources
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\obj\Debug\Criterion_6.frmEmpSearch.resources
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\obj\Debug\Criterion_6.frmMainMenu.resources
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\obj\Debug\Criterion_6.Resources.resources
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\obj\Debug\Criterion 6.exe
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\obj\Debug\Criterion 6.xml
+D:\Contents\## School\Software Dev\a crazy idea\criterion 7 sandbox\obj\Debug\Criterion 6.pdb
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\bin\Debug\Criterion 6.exe.config
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\bin\Debug\Criterion 6.exe
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\bin\Debug\Criterion 6.pdb
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\bin\Debug\Criterion 6.xml
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\obj\Debug\Criterion 6.vbprojAssemblyReference.cache
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\obj\Debug\Criterion_6.frmAppLogin.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\obj\Debug\Criterion_6.frmCompanyLists.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\obj\Debug\Criterion_6.frmCreateATeam.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\obj\Debug\Criterion_6.frmEmpSearch.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\obj\Debug\Criterion_6.frmMainMenu.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\obj\Debug\Criterion_6.Resources.resources
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\obj\Debug\Criterion 6.exe
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\obj\Debug\Criterion 6.xml
+\\localhost\Users\KARTHLS17\Google Drive\Criterion 6 Versions\Criterion 6\criterion 7 sandbox\obj\Debug\Criterion 6.pdb
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\bin\Debug\Criterion 6.exe.config
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\bin\Debug\Criterion 6.exe
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\bin\Debug\Criterion 6.pdb
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\bin\Debug\Criterion 6.xml
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.AssemblyReference.cache
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion_6.frmAppLogin.resources
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion_6.frmCompanyLists.resources
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion_6.frmCreateATeam.resources
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion_6.frmEmpSearch.resources
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion_6.frmMainMenu.resources
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion_6.Resources.resources
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion 6.exe
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion 6.xml
+E:\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion 6.pdb
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\bin\Debug\Criterion 6.exe.config
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\bin\Debug\Criterion 6.exe
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\bin\Debug\Criterion 6.pdb
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\bin\Debug\Criterion 6.xml
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.AssemblyReference.cache
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion_6.frmAppLogin.resources
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion_6.frmCompanyLists.resources
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion_6.frmCreateATeam.resources
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion_6.frmEmpSearch.resources
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion_6.frmMainMenu.resources
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion_6.Resources.resources
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion 6.exe
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion 6.xml
+D:\HDD Contents\Contents\## School\Software Dev\THEFUNNEVERSTOPS\criterion 7 sandbox\obj\Debug\Criterion 6.pdb
+D:\HDD Contents\CompanyDataApplication\application\bin\Debug\Database Application.exe.config
+D:\HDD Contents\CompanyDataApplication\application\bin\Debug\Database Application.exe
+D:\HDD Contents\CompanyDataApplication\application\bin\Debug\Database Application.pdb
+D:\HDD Contents\CompanyDataApplication\application\bin\Debug\Database Application.xml
+D:\HDD Contents\CompanyDataApplication\application\obj\Debug\Criterion 6.vbproj.AssemblyReference.cache
+D:\HDD Contents\CompanyDataApplication\application\obj\Debug\Criterion_6.frmAppLogin.resources
+D:\HDD Contents\CompanyDataApplication\application\obj\Debug\Criterion_6.frmCompanyLists.resources
+D:\HDD Contents\CompanyDataApplication\application\obj\Debug\Criterion_6.frmCreateATeam.resources
+D:\HDD Contents\CompanyDataApplication\application\obj\Debug\Criterion_6.frmEmpSearch.resources
+D:\HDD Contents\CompanyDataApplication\application\obj\Debug\Criterion_6.frmMainMenu.resources
+D:\HDD Contents\CompanyDataApplication\application\obj\Debug\Criterion_6.Resources.resources
+D:\HDD Contents\CompanyDataApplication\application\obj\Debug\Criterion 6.vbproj.GenerateResource.cache
+D:\HDD Contents\CompanyDataApplication\application\obj\Debug\Criterion 6.vbproj.CoreCompileInputs.cache
+D:\HDD Contents\CompanyDataApplication\application\obj\Debug\Database Application.exe
+D:\HDD Contents\CompanyDataApplication\application\obj\Debug\Database Application.xml
+D:\HDD Contents\CompanyDataApplication\application\obj\Debug\Database Application.pdb

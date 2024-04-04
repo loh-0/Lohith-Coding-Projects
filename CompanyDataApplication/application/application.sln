@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Criterion 6", "Criterion 6.vbproj", "{D3710489-EF28-4987-B40C-1311D6BE2CBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3710489-EF28-4987-B40C-1311D6BE2CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3710489-EF28-4987-B40C-1311D6BE2CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3710489-EF28-4987-B40C-1311D6BE2CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3710489-EF28-4987-B40C-1311D6BE2CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35071A80-54CB-4530-BE78-A91139B876A7}
+	EndGlobalSection
+EndGlobal
